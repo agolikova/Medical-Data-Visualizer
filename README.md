@@ -2,7 +2,7 @@
 
 The aim of this project is to visualize and make calculations from medical examination data using Matplotlib, NumPy, seaborn and pandas. 
 
-This assignment was set as part of the Data Analysis with Python Projects course on [freeCodeCamp.org](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
+This assignment was set as part of the Data Analysis with Python Projects course on [freeCodeCamp.org](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer). Please note, some variable names have been reformatted from the original file.
 
 ### Data description
 
