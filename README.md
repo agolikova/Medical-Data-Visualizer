@@ -32,8 +32,8 @@ Rows in the dataset represent patients and columns represent data including body
 * Create a categorical chart showing the counts of good and bad outcomes for cholesterol, gluc, alco, active and smoke for patients with cardio=1 and cardio=0 in different panels
 
 * Clean the data by filtering out the following patient segments that represent incorrect data:
-  * Diastolic pressure is higher then systolic
-  * Height is less than the 2.5th percentile or more than the 97.5th percentile
-  * Weight is less then the 2.5th percentile or more than the 97.5th percentile
+  * Diastolic pressure is higher than systolic
+  * Height < 2.5th percentile or > 97.5th percentile
+  * Weight < 2.5th percentile or > 97.5th percentile
   
 * Create a correlation matrix using seaborn's heatmap() function, masking the upper triangle
