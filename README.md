@@ -10,20 +10,20 @@ File name: [medical_examination.csv]
 
 Rows in the dataset represent patients and columns represent data including body measurements, results from various blood tests and lifestyle choices. The dataset is used to explore the relationship between cardiac disease, body measurements, blood markers and lifestyle choices.
 
-|Feature|Type|Variable name|Data type|
-|-------|-------------|--------|----------|
-|Age|Objective feature|Age|int (days)|
-|Height|Objective feature|Height|int (cm)|
-|Weight|Objective feature|Weight|float (kg)|
-|Gender|Objective feature|Gender|categorical code|
-|Systolic blood pressure|Examination feature|Systolic BP|int|
-|Diastolic blood pressure|Examination feature|Diastolic BP|int|
-|Cholesterol|Examination feature|Cholesterol|1: normal, 2: above normal, 3: well above normal|
-|Glucose|Examination feature|Glucose|1: normal, 2: above normal, 3: well above normal|
-|Smoking|Subjective feature|Smoking|0: non-smoker, 1: smoker|
-|Alcohol intake|Subjective feature|Alcohol|0: low, 1: high|
-|Physical activity|Subjective feature|Active|0: high, 1: low|
-|Cardiovascular disease|Target variable|CVD|0: absent, 1: present|
+|Variable|Type|Data type|
+|-------|-------------|----------|
+|Age|Objective feature|int (days)|
+|Height|Objective feature|int (cm)|
+|Weight|Objective feature|float (kg)|
+|Gender|Objective feature|Categorical code (1/2)|
+|Systolic blood pressure|Examination feature|int|
+|Diastolic blood pressure|Examination feature|int|
+|Cholesterol|Examination feature|1: normal, 2: above normal, 3: well above normal|
+|Glucose|Examination feature|1: normal, 2: above normal, 3: well above normal|
+|Smoking|Subjective feature|0: non-smoker, 1: smoker|
+|Alcohol intake|Subjective feature|0: low, 1: high|
+|Physical activity|Subjective feature|0: high, 1: low|
+|Cardiovascular disease (CVD)|Target variable|0: absent, 1: present|
 
 ### Tasks
 
