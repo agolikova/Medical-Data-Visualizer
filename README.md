@@ -40,7 +40,7 @@ Rows in the dataset represent patients and columns represent data including body
 
 ### Code
 
-My code in Python 3.x can be viewed [here](https://github.com/agolikova/Medical-Data-Visualizer/blob/main/Medical%20Data%20Visualizer.py)
+My code in Python 3.x can be viewed [here](https://github.com/agolikova/Medical-Data-Visualizer/blob/main/Medical%20Data%20Visualizer.py).
 
 ### Outputs
 
