@@ -37,3 +37,13 @@ Rows in the dataset represent patients and columns represent data including body
   * Weight < 2.5th percentile or > 97.5th percentile
   
 * Create a correlation matrix using seaborn's heatmap() function, masking the upper triangle
+
+### Code
+
+My code in Python 3.x can be viewed [here](https://github.com/agolikova/Medical-Data-Visualizer/blob/main/Medical%20Data%20Visualizer.py)
+
+### Outputs
+
+* [Categorical plot](https://github.com/agolikova/Medical-Data-Visualizer/blob/main/catplot.png)
+
+* [Heatmap](https://github.com/agolikova/Medical-Data-Visualizer/blob/main/heatmap.png)
