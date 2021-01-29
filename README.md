@@ -6,7 +6,7 @@ This assignment was set as part of the Data Analysis with Python Projects course
 
 ### Data description
 
-File name: [medical_examination.csv]
+File name: [medical_examination.csv](https://github.com/agolikova/Medical-Data-Visualizer/blob/main/medical_examination.csv)
 
 Rows in the dataset represent patients and columns represent data including body measurements, results from various blood tests and lifestyle choices. The dataset is used to explore the relationship between cardiac disease, body measurements, blood markers and lifestyle choices.
 
