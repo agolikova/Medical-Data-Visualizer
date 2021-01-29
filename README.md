@@ -10,7 +10,7 @@ File name: [medical_examination.csv](https://github.com/agolikova/Medical-Data-V
 
 Rows in the dataset represent patients and columns represent data including body measurements, results from various blood tests and lifestyle choices. The dataset is used to explore the relationship between cardiac disease, body measurements, blood markers and lifestyle choices.
 
-|Variable|Type|Data type|
+|VARIABLE|TYPE|DATA TYPE|
 |-------|-------------|----------|
 |Age|Objective feature|int (days)|
 |Height|Objective feature|int (cm)|
