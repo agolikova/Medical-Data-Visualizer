@@ -1,4 +1,4 @@
-# Medical-Data-Visualizer
+# Medical Data Visualizer
 
 The aim of this project is to visualize and make calculations from medical examination data using Matplotlib, NumPy, seaborn and pandas. 
 
